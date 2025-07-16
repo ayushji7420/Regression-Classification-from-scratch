@@ -1,16 +1,16 @@
 # Ayush Models
-Multiple linear Regression
-Polynomial Regression
-Random Forest Classification
-Support Vector Regression 
-Naive bayes
-Neural Networks
+1. Multiple linear Regression
+2. Polynomial Regression
+3. Random Forest Classification
+4. Support Vector Regression 
+5. Naive bayes
+6. Neural Networks
 
 
 # Vedansh Models
-Logistics Regression
-Linear regression
-Decision Tree Classifier
-Support Vector Machines
-KNearest Neighbour
-Neural Networks
+1. Logistics Regression
+2. Linear regression
+3. Decision Tree Classifier
+4. Support Vector Machines
+5. KNearest Neighbour
+6. Neural Networks
